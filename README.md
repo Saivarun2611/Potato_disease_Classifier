@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Saivarun2611/potato-disease-classifier.git
+    git clone https://github.com/Saivarun2611/Potato_disease_Classifier.git
     ```
 2. Navigate to the project directory:
     ```bash
