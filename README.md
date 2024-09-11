@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd potato-disease-classifier
+    cd Potato_disease_Classifier
     ```
 
 3. Install the required dependencies
